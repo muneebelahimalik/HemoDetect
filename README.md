@@ -1,3 +1,3 @@
-# HemoDetect
-##Empowering Precision Medicine through Multi-Class Disease Classification of Blood Cell Images
+# **HemoDetect**
+## Empowering Precision Medicine through Multi-Class Disease Classification of Blood Cell Images
 HemoDetect is an advanced deep-learning solution built on the Faster R-CNN framework, specifically designed to revolutionize disease diagnosis and classification in the field of hematology. By leveraging state-of-the-art artificial intelligence algorithms, HemoDetect enables accurate and efficient identification of multiple diseases, including leukemia, sickle cell anemia, and malaria, from microscopic blood cell images. With its robust and precise disease classification capabilities, HemoDetect empowers healthcare professionals with a powerful tool for early detection and accurate diagnosis, allowing for personalized treatment plans and improved patient outcomes.
