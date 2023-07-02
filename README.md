@@ -7,6 +7,10 @@ HemoDetect is an advanced deep-learning solution built on the Faster R-CNN frame
 ![image](https://github.com/muneebelahimalik/HemoDetect/assets/59524535/13d5b500-ac5a-464b-925e-73d03ae936df)![image](https://github.com/muneebelahimalik/HemoDetect/assets/59524535/f3158f73-28c4-46f4-b0f8-2725f4f980d0)
 
 ## Data Source
-The model was trained on 10,000+ images of peripheral blood cells belonging to healthy patients and patients suffering form Leukemia, Sickle-Cell anemia and Malaria. The dataset was prepared by the [Barcelona Hematology Institute](https://en.dexeus.com/who-we-are/our-centers/barcelona). The blood cell images were annotated by expert Clinical Pathologists from [The Clínic's Institute of Hematological and Oncological Diseases](https://www.clinicbarcelona.org/en/institute/the-clinics-institute-of-hematological-and-oncological-diseases). The size of the images is 360 x 360 pixels and they are in the .jpg format.
+The model was trained on 10,000+ images of peripheral blood cells belonging to healthy patients and patients suffering form Leukemia, Sickle-Cell anemia and Malaria. The dataset was prepared by the [Barcelona Hematology Institute](https://en.dexeus.com/who-we-are/our-centers/barcelona). The blood cell images were annotated by expert Clinical Pathologists from [The Clínic's Institute of Hematological and Oncological Diseases](https://www.clinicbarcelona.org/en/institute/the-clinics-institute-of-hematological-and-oncological-diseases). The size of the images is 360 x 360 pixels and they are in the .jpg format. 
+
+##Usage
+
+
 
 
